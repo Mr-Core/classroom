@@ -9,8 +9,8 @@ This roadmap is broken into five progressive stages, each introducing core conce
 ## ✅ Progress Overview
 
 ### 🔹 Stage 1: Basic Looping & Access
-- [ ] Loop through lists, tuples, and dictionaries
-- [ ] Understand `enumerate`, `.items()`, `.keys()`, `.values()`
+- [x] Loop through lists, tuples, and dictionaries
+- [x] Understand `enumerate`, `.items()`, `.keys()`, `.values()`
 - [ ] Access elements safely (e.g., index bounds, missing keys)
 
 ### 🔹 Stage 2: Add/Remove Elements
