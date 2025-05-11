@@ -1,0 +1,1 @@
+A repository for improving basic Python skills and techniques
