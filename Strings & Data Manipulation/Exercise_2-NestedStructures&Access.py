@@ -1,5 +1,5 @@
 """
-Stage 1 - Exercise 2: Nested Structures & Access
+Exercise 6: Nested Structures & Access
 
 You're going to work with:
     A list of dictionaries (e.g., student records)

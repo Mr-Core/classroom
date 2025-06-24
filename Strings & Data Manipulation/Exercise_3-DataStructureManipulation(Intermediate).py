@@ -1,5 +1,5 @@
 """
-Level 2: Data Structure Manipulation (Intermediate)
+Exercise 7: Data Structure Manipulation (Intermediate)
 
 
 Task 1: Reverse a dictionary (values to keys)

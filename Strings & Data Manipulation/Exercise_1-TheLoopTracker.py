@@ -1,5 +1,5 @@
 """
-Stage 1 - Exercise 1: "Loop Tracker"
+Exercise 5 - The Loop Tracker
 
 Objective:
 Practice looping through lists, tuples, and dictionaries while accessing both keys and values.

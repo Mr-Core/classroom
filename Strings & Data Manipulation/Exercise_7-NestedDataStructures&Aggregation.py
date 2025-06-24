@@ -1,5 +1,5 @@
 """
-Stage 3, Exercise 3: Nested Data Structures & Aggregation
+Exercise 3: Nested Data Structures & Aggregation
 
 Scenario: Orders & Inventory
 
@@ -12,6 +12,7 @@ orders = [
     {"user": "Charlie", "items": [{"product": "Pen", "quantity": 2}, {"product": "Notebook", "quantity": 3}]},
     {"user": "Daisy", "items": [{"product": "Book", "quantity": 1}, {"product": "Pen", "quantity": 2}]},
 ]
+
 
 Task 1:
 Create a dictionary product_totals that shows the total quantity sold for each product.
